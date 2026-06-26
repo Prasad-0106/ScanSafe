@@ -1,0 +1,22 @@
+# Android
+*.iml
+.gradle
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+*.apk
+*.aab
+*.ap_
+app/google-services.json
+
+# Backend
+backend/node_modules/
+backend/.env
+backend/coverage/
+backend/firebase-service-account.json
+
+# General
+*.log
+.env
